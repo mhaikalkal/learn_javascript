@@ -43,7 +43,7 @@ function Stopwatch() {
 }
 
 const sw = new Stopwatch();
-sw.start();
+// sw.start();
 // sw.start();
 // sw.stop();
 // sw.reset();
